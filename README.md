@@ -1,4 +1,5 @@
 # UK Food Standards Agency Food Hygiene Rating - Data Analysis
+![maxresdefault](https://user-images.githubusercontent.com/113273722/222960269-82e3a73f-6375-4d58-8401-164bd3a77778.jpg)
 
 ## Project Overview
 
