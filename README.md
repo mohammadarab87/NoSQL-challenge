@@ -9,7 +9,7 @@ I used ***NoSQL (MongoDB)*** to store and manipulate the data and Jupyter Notebo
 I made modifications to the database as per the editors' requirements and answered specific questions to help them decide where to focus future articles.
 
 ## Prerequisites
-To run this project, I will need the following:
+The following tools and technologies are required to run the project:
 
 Python,
 Jupyter Notebook,
